@@ -1,5 +1,6 @@
 # map-air-raid-alerts
 It is ukranian online map air raid alerts for Android.
+It is unoficial application.
 This application is based on the site https://alerts.in.ua/ and is based on the principles of the Progressive Web App or PWA strategy.
 
 **Why is this application needed?**
